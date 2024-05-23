@@ -1,0 +1,11 @@
+/* Scheme */
+$primary:     #f9ad33;
+$secondary:   #000000;
+$white:       #ffffff;
+$black:       #000000;
+
+$primarydark:   darker($primary, 0.3);
+$primarylight:  lighter($primary, 0.5);
+
+$secondarydark:   darker($secondary, 0.3);
+$secondarylight:  lighter($secondary, 0.5);

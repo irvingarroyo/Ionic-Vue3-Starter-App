@@ -1,0 +1,49 @@
+{
+	"name": "ionic-vue-3-app",
+	"description": "ionic-vue-3-app",
+	"version": "1.0.0",
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/irving.io/ionic-vue-app-starter.git"
+	},
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview --port 4173",
+		"lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+	},
+	"dependencies": {
+		"@capacitor/android": "^6.0.0",
+		"@capacitor/app": "6.0.0",
+		"@capacitor/core": "6.0.0",
+		"@capacitor/haptics": "6.0.0",
+		"@capacitor/ios": "^6.0.0",
+		"@capacitor/keyboard": "6.0.0",
+		"@capacitor/status-bar": "6.0.0",
+		"@ionic/core": "^8.2.0",
+		"@ionic/vue": "^8.2.0",
+		"@ionic/vue-router": "^8.2.0",
+		"pinia": "^2.1.7",
+		"vue": "^3.4.27",
+		"vue-router": "^4.3.2"
+	},
+	"devDependencies": {
+		"@capacitor/cli": "6.0.0",
+		"@rushstack/eslint-patch": "^1.10.3",
+		"@vitejs/plugin-vue": "^5.0.4",
+		"@vue/cli-service": "5.0.8",
+		"@vue/eslint-config-prettier": "^9.0.0",
+		"autoprefixer": "^10.4.19",
+		"cssnano": "^7.0.1",
+		"eslint": "^9.3.0",
+		"eslint-plugin-vue": "^9.26.0",
+		"postcss": "^8.4.38",
+		"postcss-import": "^16.1.0",
+		"prettier": "^3.2.5",
+		"sass": "^1.77.2",
+		"sass-loader": "^14.2.1",
+		"tailwindcss": "^3.4.3",
+		"vite": "^5.2.11",
+		"vite-svg-loader": "^5.1.0"
+	}
+}
