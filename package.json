@@ -6,6 +6,18 @@
 		"type": "git",
 		"url": "https://gitlab.com/irving.io/ionic-vue-3-starter-app.git"
 	},
+	"author": "Irving Arroyo <irving@digital.northcreative.com.mx> (https://digital.northcreative.com.mx)",
+	"keywords": [
+		"Ionic",
+		"Vue App",
+		"Vue 3",
+		"Vite App",
+		"Capacitor App",
+		"Vue Capacitor",
+		"Mobile app",
+		"Web App",
+		"Ionic app"
+	],
 	"scripts": {
 		"dev": "vite",
 		"build": "vite build",
