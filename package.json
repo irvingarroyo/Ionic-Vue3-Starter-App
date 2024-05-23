@@ -1,10 +1,10 @@
 {
-	"name": "ionic-vue-3-app",
-	"description": "ionic-vue-3-app",
+	"name": "ionic-vue-3-starter-app",
+	"description": "ionic-vue-3-starter-app",
 	"version": "1.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://gitlab.com/irving.io/ionic-vue-app-starter.git"
+		"url": "https://gitlab.com/irving.io/ionic-vue-3-starter-app.git"
 	},
 	"scripts": {
 		"dev": "vite",
